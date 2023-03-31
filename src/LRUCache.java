@@ -8,6 +8,7 @@ public class LRUCache {
         String[] ans = lru(new String[]{"A", "B", "E", "D", "C", "F", "A", "B", "A"});
         for (int i = 0; i < ans.length; i++) {
             System.out.println(ans[i]);
+            System.out.println(ans[i]);
         }
     }
 
